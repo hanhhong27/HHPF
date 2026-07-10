@@ -6,7 +6,7 @@ export const assignments = [
     icon: "📁",
     tags: ["Quản lý tệp", "File Explorer", "Windows"],
     pdfLink:
-      "https://drive.google.com/file/d/1AxBICdNFTRa1eVL9U2cTxStzwhumTZB2/view?usp=drive_link.google.com/file/d/1AIs10nRm_6qc976LXKucHy-ANKL8cIR_/view?usp=drive_link",
+      "https://drive.google.com/file/d/1AxBICdNFTRa1eVL9U2cTxStzwhumTZB2/view?usp=drive_link",
     goal: "Thực hành và nắm vững các thao tác cơ bản để quản lý tệp và thư mục trên hệ điều hành Windows, giúp tổ chức và lưu trữ dữ liệu học tập một cách khoa học.",
     summary:
       "Hướng dẫn chi tiết các thao tác làm việc với File Explorer: mở ổ đĩa, tạo và đổi tên thư mục/tệp tin, sao chép (Copy-Paste), di chuyển (Cut-Paste), xóa tệp, xóa vĩnh viễn và khôi phục dữ liệu từ Thùng rác.",
@@ -120,7 +120,7 @@ export const assignments = [
       "Liêm chính học thuật",
     ],
     pdfLink:
-      "https://drive.google.com/file/d/1M1OVb2exVr8NZucQHzIJRIydhwFeP6Au/view?usp=drive_link.google.com/file/d/1HfNbXS0UXJH_2-Vb_-P7R1JKJgxl4tym/view?usp=drive_link",
+      "https://drive.google.com/file/d/1M1OVb2exVr8NZucQHzIJRIydhwFeP6Au/view?usp=drive_link",
     goal: "Tìm kiếm, tổng hợp và đánh giá chuyên sâu độ tin cậy của các nguồn tài liệu học thuật về vai trò của Trí tuệ nhân tạo tạo sinh trong việc nâng cao kỹ năng viết tiếng Anh.",
     summary:
       "Xác định chiến lược tìm kiếm tài liệu từ 2021-2026 trên các nền tảng học thuật. Lập bảng tổng hợp 12 nguồn thông tin (bài báo, sách, luận văn). Thực hiện đánh giá chi tiết tính uy tín, phương pháp và ưu nhược điểm của một nghiên cứu tiêu biểu. Cuối cùng, rút ra kết luận về việc cân bằng giữa sử dụng AI và giữ vững liêm chính ngôn ngữ.",
@@ -349,7 +349,7 @@ export const assignments = [
     icon: "🤖",
     tags: ["Trí tuệ nhân tạo", "AI", "Prompt Engineering"],
     pdfLink:
-      "https://drive.google.com/file/d/1gTJZ-nrP6NHJU11PsJk5-PY4eT1tRf0v/view?usp=drive_link.google.com/file/d/18Z1Wza9XF3--D9L9gNe8V-xuXNS1vGA_/view?usp=drive_link",
+      "https://drive.google.com/file/d/1gTJZ-nrP6NHJU11PsJk5-PY4eT1tRf0v/view?usp=drive_link",
     goal: "Có cái nhìn tổng quát về trí tuệ nhân tạo (AI) và rèn kỹ năng Prompt Engineering để khai thác hiệu quả các mô hình ngôn ngữ lớn trong học tập.",
     summary:
       "Thử nghiệm và đánh giá hiệu quả của 3 mức độ prompt (cơ bản – cải tiến – nâng cao) trên 3 tác vụ cốt lõi: tóm tắt tài liệu học thuật, giải thích khái niệm phức tạp và tạo bộ câu hỏi ôn tập. So sánh kết quả thực nghiệm theo các tiêu chí hình thức, độ chính xác, văn phong và tính ứng dụng; từ đó đúc kết công thức viết prompt tối ưu C-T-C-O cùng các nguyên tắc tương tác hiệu quả với AI.",
@@ -525,7 +525,7 @@ export const assignments = [
     icon: "🤝",
     tags: ["Làm việc nhóm", "Excel", "Google Workspace"],
     pdfLink:
-      "https://drive.google.com/file/d/1L1_FNHYQTKYdiMV_Ak-a-NIcIaaLTCvp/view?usp=drive_link.google.com/file/d/1UrTfhjSRXM0hyz4SlJxyRN3taxabu6If/view?usp=drive_link",
+      "https://drive.google.com/file/d/1L1_FNHYQTKYdiMV_Ak-a-NIcIaaLTCvp/view?usp=drive_link",
     goal: "Phát triển kỹ năng sử dụng các công cụ cộng tác trực tuyến (Excel, Google Docs, Google Meet) để quản lý công việc cá nhân, soạn thảo tài liệu và giao tiếp nhóm hiệu quả trong dự án thực tế.",
     summary:
       "Báo cáo cá nhân về việc ứng dụng 3 công cụ trong dự án nhóm 'Các biện pháp nuôi dưỡng sức khỏe tinh thần cho sinh viên': Excel (quản lý dự án), Google Docs (soạn thảo cộng tác, lưu trữ tệp) và Google Meet (giao tiếp nhóm). Trình bày quá trình sử dụng, nhiệm vụ cá nhân, đánh giá ưu nhược điểm của từng công cụ, cũng như cách giải quyết các thách thức như khó theo dõi tiến độ, nội dung bị ghi đè hay tài liệu phân tán.",
@@ -609,7 +609,7 @@ export const assignments = [
     icon: "🧠",
     tags: ["Digital Detox", "AI tạo sinh", "Gemini", "Sáng tạo nội dung"],
     pdfLink:
-      "https://drive.google.com/file/d/1zKn6LHhk9WZjJjnKaUMt5GwMpyEj-AIE/view?usp=drive_link.google.com/file/d/1o_C6EwrFSw2RF-C3_7H3szgK2Rj3EKW-/view?usp=drive_link",
+      "https://drive.google.com/file/d/1zKn6LHhk9WZjJjnKaUMt5GwMpyEj-AIE/view?usp=drive_link",
     goal: "Áp dụng thành thạo các công cụ AI tạo sinh (Gemini, DALL-E 3, Canva AI) vào quy trình sản xuất nội dung số, nhằm nâng cao nhận thức của sinh viên về hội chứng 'TikTok brain' và đề xuất giải pháp Digital Detox.",
     summary:
       "Báo cáo chi tiết quá trình ứng dụng 3 công cụ AI để sản xuất bài viết và infographic truyền thông: Google Gemini (tạo văn bản), DALL-E 3 (tạo hình minh họa) và Canva AI (thiết kế layout). Trình bày rõ các prompt đã sử dụng, đánh giá ưu/nhược điểm, các bước tinh chỉnh của con người (sửa văn phong, sửa lỗi ảnh, chỉnh font chữ), sự chuyển dịch sang vai trò 'Đạo diễn sáng tạo', và phân tích các vấn đề đạo đức như bản quyền và liêm chính học thuật.",
@@ -717,7 +717,7 @@ export const assignments = [
     icon: "⚖️",
     tags: ["Liêm chính học thuật", "AI Companion", "Đạo đức số"],
     pdfLink:
-      "https://drive.google.com/file/d/1uViLKc7GlpD-Jm9D-KzUM59xOXyKys9E/view?usp=drive_link.google.com/file/d/1aDibZd6cNgDXhXmz4z7CPCHnKPA5W9Vr/view?usp=drive_link",
+      "https://drive.google.com/file/d/1uViLKc7GlpD-Jm9D-KzUM59xOXyKys9E/view?usp=drive_link",
     goal: "Nghiên cứu chính sách của nhà trường về sử dụng AI, thực hành ứng dụng công cụ AI (Gemini) vào học tập một cách minh bạch và xây dựng bộ nguyên tắc đạo đức cá nhân trong môi trường số.",
     summary:
       "Báo cáo tìm hiểu chính sách của ĐHQGHN/ULIS về việc coi AI như 'người bạn đồng hành' (AI Companion), khuyến khích hỗ trợ học tập nhưng nghiêm cấm gian lận. Thực hành dùng Gemini lập dàn ý bài thuyết trình về 'Tác động của video ngắn đến sự tập trung', đánh giá và tinh chỉnh đầu ra bằng 'bộ lọc cá nhân', đồng thời trích dẫn theo chuẩn APA. Phân tích ranh giới giữa hỗ trợ hợp lý và gian lận, vấn đề sở hữu trí tuệ, nguy cơ 'lười tư duy', từ đó thiết lập Bộ 5 nguyên tắc vàng về sử dụng AI có trách nhiệm.",
