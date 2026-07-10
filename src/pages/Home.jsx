@@ -670,7 +670,7 @@ export default function Portfolio() {
               đề một cách khoa học hơn, biết lựa chọn nguồn thông tin đáng tin
               cậy, biết khai thác AI để hỗ trợ thay vì phụ thuộc hoàn toàn vào
               nó và luôn ý thức về trách nhiệm, đạo đức khi sử dụng công nghệ.
-              Mỗi sản phẩm được lưu giữ trong Portfolio đều ghi lại quá trình em
+              Mỗi sản phẩm được lưu giữ trong Portfolio đều ghi lại quá trình tôi
               thử nghiệm, điều chỉnh, hoàn thiện và từng bước trưởng thành trong
               môi trường học tập số.
             </p>
