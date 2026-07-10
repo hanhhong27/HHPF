@@ -70,8 +70,7 @@ export default function Portfolio() {
     { name: "JQuery", src: skillIconByName.JQuery },
     { name: "VS Code", src: skillIconByName["VS Code"] },
     { name: "Git", src: skillIconByName.Git },
-    { name: "MongoDB", src: skillIconByName.MongoDB },
-    { name: "RESTFull APIs", src: skillIconByName["RESTFull APIs"] },
+
     { name: "Boostrap", src: skillIconByName.Boostrap },
     { name: "FIREBASE", src: skillIconByName.FIREBASE },
     { name: "ReactJS", src: skillIconByName.ReactJS },

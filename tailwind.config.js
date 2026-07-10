@@ -230,14 +230,14 @@ module.exports = {
   		
   		
   		fontFamily: {
+  			// Đổi font mặc định của Tailwind (font-sans) sang Times New Roman
+  			'sans': ['"Times New Roman"', 'Times', 'serif'],
   			
-  			'heading': ['JetBrains Mono', 'sans-serif'],
-  			
-  			'figma-montserrat': ['Montserrat', 'sans-serif'],
-  			
-  			'figma-inter': ['Inter', 'sans-serif'],
-  			
-  			'figma-poppins': ['Poppins', 'sans-serif'],
+  			// Ghi đè toàn bộ các font token cũ sang Times New Roman để tránh bị lỗi hiển thị font cũ
+  			'heading': ['"Times New Roman"', 'Times', 'serif'],
+  			'figma-montserrat': ['"Times New Roman"', 'Times', 'serif'],
+  			'figma-inter': ['"Times New Roman"', 'Times', 'serif'],
+  			'figma-poppins': ['"Times New Roman"', 'Times', 'serif'],
   			
   		},
   		
