@@ -264,15 +264,15 @@ export default function Portfolio() {
                   <>
                     <strong>Minh chứng năng lực số (Digital Proof):</strong> Đây
                     là không gian lưu trữ và trưng bày trực quan các sản phẩm
-                    học tập tiêu biểu của em. Portfolio phản ánh sự phát triển
+                    học tập tiêu biểu của tôi. Portfolio phản ánh sự phát triển
                     toàn diện qua 6 năng lực số cốt lõi: quản lý dữ liệu, tìm
                     kiếm nâng cao, viết prompt, hợp tác trực tuyến, sáng tạo với
                     AI và đạo đức học thuật.
                   </>,
                   <>
                     <strong>Đánh giá và phản tư (Reflection):</strong> Nền tảng
-                    này giúp em tự nhìn nhận và phản tư về sự tiến bộ của bản
-                    thân qua từng giai đoạn. Từ các trải nghiệm thực tế, em rút
+                    này giúp tôi tự nhìn nhận và phản tư về sự tiến bộ của bản
+                    thân qua từng giai đoạn. Từ các trải nghiệm thực tế, tôi rút
                     ra bài học kinh nghiệm, xác định điểm mạnh/yếu để định hướng
                     ứng dụng hiệu quả kỹ năng số vào công việc tương lai.
                   </>,
@@ -653,20 +653,20 @@ export default function Portfolio() {
               💭 Trải nghiệm & cảm nhận
             </p>
             <p className="text-[clamp(16px,1.4vw,24px)] font-normal leading-[1.8] text-primary/90">
-              Nhìn lại chặng đường 15 tuần của học phần, em nhận thấy bản thân
+              Nhìn lại chặng đường 15 tuần của học phần, tôi nhận thấy bản thân
               đã có nhiều thay đổi tích cực. Là sinh viên ngành Ngôn ngữ Anh,
-              trước đây em chủ yếu quen với phương pháp học tập truyền thống,
+              trước đây tôi chủ yếu quen với phương pháp học tập truyền thống,
               ghi chép trên lớp và tìm kiếm tài liệu theo những cách quen thuộc.
               Công nghệ, đặc biệt là trí tuệ nhân tạo, vẫn còn là một lĩnh vực
-              khá mới mẻ đối với em. Tuy nhiên, thông qua các bài học, bài tập
-              thực hành và dự án nhóm, em dần hiểu rằng công nghệ không chỉ là
+              khá mới mẻ đối với tôi. Tuy nhiên, thông qua các bài học, bài tập
+              thực hành và dự án nhóm, tôi dần hiểu rằng công nghệ không chỉ là
               một công cụ hỗ trợ mà còn là người bạn đồng hành giúp nâng cao
               hiệu quả học tập, nghiên cứu và sáng tạo nếu biết sử dụng đúng
               cách.
             </p>
             <p className="text-[clamp(16px,1.4vw,24px)] font-normal leading-[1.8] text-primary/90">
-              Điều em nhận được sau học phần không chỉ là kiến thức về các công
-              cụ số mà còn là sự thay đổi trong tư duy. Em học cách tiếp cận vấn
+              Điều tôi nhận được sau học phần không chỉ là kiến thức về các công
+              cụ số mà còn là sự thay đổi trong tư duy. Tôi học cách tiếp cận vấn
               đề một cách khoa học hơn, biết lựa chọn nguồn thông tin đáng tin
               cậy, biết khai thác AI để hỗ trợ thay vì phụ thuộc hoàn toàn vào
               nó và luôn ý thức về trách nhiệm, đạo đức khi sử dụng công nghệ.
@@ -784,11 +784,11 @@ export default function Portfolio() {
               {[
                 {
                   emoji: "✏️",
-                  text: "Khi mới bắt đầu học môn này, em khá bối rối vì mọi thứ đều rất mới. Điều khiến em lo lắng nhất là mình sẽ quá phụ thuộc vào AI, đến mức dần mất đi khả năng tự suy nghĩ và sáng tạo. Em cũng từng nghĩ chỉ cần nhập một câu lệnh là sẽ có ngay kết quả hoàn hảo, nhưng thực tế lại khác hẳn. Có những lúc em phải chỉnh sửa prompt rất nhiều lần hay loay hoay với Portfolio mà vẫn chưa đạt được kết quả như mong muốn.",
+                  text: "Khi mới bắt đầu học môn này, tôi khá bối rối vì mọi thứ đều rất mới. Điều khiến tôi lo lắng nhất là mình sẽ quá phụ thuộc vào AI, đến mức dần mất đi khả năng tự suy nghĩ và sáng tạo. Tôi cũng từng nghĩ chỉ cần nhập một câu lệnh là sẽ có ngay kết quả hoàn hảo, nhưng thực tế lại khác hẳn. Có những lúc tôi phải chỉnh sửa prompt rất nhiều lần hay loay hoay với Portfolio mà vẫn chưa đạt được kết quả như mong muốn.",
                 },
                 {
                   emoji: "💡",
-                  text: "Qua quá trình học, em nhận ra AI không thể thay thế tư duy của con người, mà chỉ thực sự phát huy giá trị khi mình biết cách sử dụng nó. Thay vì giao hết mọi việc cho AI, em học cách đặt câu hỏi rõ ràng hơn, kiểm chứng thông tin và chủ động chỉnh sửa những gì AI tạo ra để phù hợp với ý tưởng của mình. Mỗi lần thử nghiệm, thất bại rồi làm lại đều giúp em hiểu công cụ này hơn và cũng hiểu chính cách mình tư duy. Đến cuối cùng, điều em học được không chỉ là cách sử dụng AI hiệu quả, mà còn là cách giữ được dấu ấn cá nhân trong mỗi sản phẩm mình tạo ra.",
+                  text: "Qua quá trình học, tôi nhận ra AI không thể thay thế tư duy của con người, mà chỉ thực sự phát huy giá trị khi mình biết cách sử dụng nó. Thay vì giao hết mọi việc cho AI, tôi học cách đặt câu hỏi rõ ràng hơn, kiểm chứng thông tin và chủ động chỉnh sửa những gì AI tạo ra để phù hợp với ý tưởng của mình. Mỗi lần thử nghiệm, thất bại rồi làm lại đều giúp tôi hiểu công cụ này hơn và cũng hiểu chính cách mình tư duy. Đến cuối cùng, điều tôi học được không chỉ là cách sử dụng AI hiệu quả, mà còn là cách giữ được dấu ấn cá nhân trong mỗi sản phẩm mình tạo ra.",
                 },
               ].map((item, i) => (
                 <div
