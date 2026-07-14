@@ -12,7 +12,8 @@
     "typecheck": "tsc -p ./jsconfig.json",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "deploy:hanhhong": "vite build --base=/HHPF/ && gh-pages -d dist -r git@github.com-hanhhong:hanhhong27/HHPF.git"
   },
   "dependencies": {
     "@hello-pangea/dnd": "^17.0.0",

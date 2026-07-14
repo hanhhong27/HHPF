@@ -725,7 +725,7 @@ export const assignments = [
       {
         title: "1. Chính sách của trường về sử dụng AI",
         content:
-          "ĐHQGHN và ULIS định hướng sử dụng AI như một 'người bạn đồng hành' (AI Companion). Nhà trường khuyến khích sinh viên dùng AI để hỗ trợ tìm kiếm ý tưởng, sửa lỗi ngữ pháp, tối ưu bố cục nhằm nâng cao hiệu suất[cite: 6]. Tuy nhiên, các quy định về liêm chính học thuật được thắt chặt: hành vi sử dụng AI tạo ra 100% nội dung rồi sao chép nguyên văn (Copy-Paste) mà không tự tư duy hay khai báo nguồn sẽ bị coi là gian lận (tương đương đạo văn) và bị kỷ luật[cite: 6].",
+          "ĐHQGHN và ULIS định hướng sử dụng AI như một 'người bạn đồng hành' (AI Companion). Nhà trường khuyến khích sinh viên dùng AI để hỗ trợ tìm kiếm ý tưởng, sửa lỗi ngữ pháp, tối ưu bố cục nhằm nâng cao hiệu suất . Tuy nhiên, các quy định về liêm chính học thuật được thắt chặt: hành vi sử dụng AI tạo ra 100% nội dung rồi sao chép nguyên văn (Copy-Paste) mà không tự tư duy hay khai báo nguồn sẽ bị coi là gian lận (tương đương đạo văn) và bị kỷ luật .",
       },
       {
         title: "2. Thực hành: Tương tác với AI (Gemini)",
@@ -733,22 +733,22 @@ export const assignments = [
           {
             step: "01",
             title: "Prompt sử dụng",
-            desc: "Dùng Gemini chuẩn bị bài thuyết trình 2 phút về 'Tác động của video ngắn đến sự tập trung'. Prompt 1: Yêu cầu lập dàn ý 3 phần với ngôn từ gần gũi. Prompt 2: Yêu cầu bổ sung các thuật ngữ khoa học (TikTok Brain, Attentional Residue) và tên nhà nghiên cứu để tăng tính thuyết phục[cite: 6].",
+            desc: "Dùng Gemini chuẩn bị bài thuyết trình 2 phút về 'Tác động của video ngắn đến sự tập trung'. Prompt 1: Yêu cầu lập dàn ý 3 phần với ngôn từ gần gũi. Prompt 2: Yêu cầu bổ sung các thuật ngữ khoa học (TikTok Brain, Attentional Residue) và tên nhà nghiên cứu để tăng tính thuyết phục .",
           },
           {
             step: "02",
             title: "Đánh giá đầu ra",
-            desc: "AI cung cấp bộ khung logic, gợi ý được các từ khóa đắt giá như 'TikTok Brain', 'Attention span'. Tuy nhiên, nếu bê nguyên văn sẽ bị quá tải thuật ngữ và thiếu bản sắc cá nhân[cite: 6].",
+            desc: "AI cung cấp bộ khung logic, gợi ý được các từ khóa đắt giá như 'TikTok Brain', 'Attention span'. Tuy nhiên, nếu bê nguyên văn sẽ bị quá tải thuật ngữ và thiếu bản sắc cá nhân .",
           },
           {
             step: "03",
             title: "Chỉnh sửa & Tích hợp",
-            desc: "Sử dụng 'bộ lọc cá nhân': Hạ cấp bậc từ vựng (chuyển giải thích cơ chế Dopamine thành ngôn ngữ nói tự nhiên) và cá nhân hóa dẫn chứng bằng câu chuyện thực tế của bản thân[cite: 6].",
+            desc: "Sử dụng 'bộ lọc cá nhân': Hạ cấp bậc từ vựng (chuyển giải thích cơ chế Dopamine thành ngôn ngữ nói tự nhiên) và cá nhân hóa dẫn chứng bằng câu chuyện thực tế của bản thân .",
           },
           {
             step: "04",
             title: "Trích dẫn minh bạch",
-            desc: "Thực hiện trích dẫn việc sử dụng AI rõ ràng theo chuẩn APA (7th Edition) bao gồm cả trích dẫn trong văn bản (In-text citation) và danh mục tài liệu tham khảo[cite: 6].",
+            desc: "Thực hiện trích dẫn việc sử dụng AI rõ ràng theo chuẩn APA (7th Edition) bao gồm cả trích dẫn trong văn bản (In-text citation) và danh mục tài liệu tham khảo .",
           },
         ],
       },
@@ -761,16 +761,16 @@ export const assignments = [
           ],
           rows: [
             [
-              "AI là 'trợ lý', người phản biện hoặc hướng dẫn[cite: 6]",
-              "Giao khoán toàn bộ bài tập cho AI[cite: 6]",
+              "AI là 'trợ lý', người phản biện hoặc hướng dẫn ",
+              "Giao khoán toàn bộ bài tập cho AI ",
             ],
             [
-              "Dùng AI kiểm tra cấu trúc, tìm lỗi ngữ pháp, giải thích khái niệm[cite: 6]",
-              "Lạm dụng AI viết tự động, ký tên mình để nộp[cite: 6]",
+              "Dùng AI kiểm tra cấu trúc, tìm lỗi ngữ pháp, giải thích khái niệm ",
+              "Lạm dụng AI viết tự động, ký tên mình để nộp ",
             ],
             [
-              "Chất xám và quyền quyết định thuộc về người học[cite: 6]",
-              "Sao chép nguyên văn không có đóng góp tư duy[cite: 6]",
+              "Chất xám và quyền quyết định thuộc về người học ",
+              "Sao chép nguyên văn không có đóng góp tư duy ",
             ],
           ],
         },
@@ -778,30 +778,30 @@ export const assignments = [
       {
         title: "4. Quyền sở hữu trí tuệ & Tác động đến kỹ năng",
         content:
-          "Do AI quét dữ liệu từ internet mà không trích nguồn chi tiết, việc sao chép nguyên văn sản phẩm AI dễ dẫn đến 'đạo văn' gián tiếp, vi phạm quyền sở hữu trí tuệ của cộng đồng khoa học[cite: 6]. Bên cạnh đó, nếu lạm dụng AI như một 'chiếc nạng', sinh viên sẽ rơi vào hội chứng 'lười tư duy', làm thui chột các kỹ năng phân tích, tổng hợp và tư duy phản biện (Critical thinking)[cite: 6].",
+          "Do AI quét dữ liệu từ internet mà không trích nguồn chi tiết, việc sao chép nguyên văn sản phẩm AI dễ dẫn đến 'đạo văn' gián tiếp, vi phạm quyền sở hữu trí tuệ của cộng đồng khoa học . Bên cạnh đó, nếu lạm dụng AI như một 'chiếc nạng', sinh viên sẽ rơi vào hội chứng 'lười tư duy', làm thui chột các kỹ năng phân tích, tổng hợp và tư duy phản biện (Critical thinking) .",
       },
       {
         title: "5. Bộ 5 nguyên tắc vàng khi làm việc với AI",
         highlights: [
           {
             emoji: "💡",
-            text: "1. Ý tưởng gốc luôn là của mình: AI chỉ hỗ trợ, không thay thế tư duy gốc[cite: 6].",
+            text: "1. Ý tưởng gốc luôn là của mình: AI chỉ hỗ trợ, không thay thế tư duy gốc .",
           },
           {
             emoji: "🔍",
-            text: "2. Bộ lọc cá nhân: Viết lại (paraphrase) bằng ngôn ngữ, văn phong và góc nhìn cá nhân[cite: 6].",
+            text: "2. Bộ lọc cá nhân: Viết lại (paraphrase) bằng ngôn ngữ, văn phong và góc nhìn cá nhân .",
           },
           {
             emoji: "🔬",
-            text: "3. Hoài nghi khoa học (Fact-checking): Luôn kiểm chứng số liệu, sự kiện từ AI qua nguồn chính thống để tránh 'ảo giác AI'[cite: 6].",
+            text: "3. Hoài nghi khoa học (Fact-checking): Luôn kiểm chứng số liệu, sự kiện từ AI qua nguồn chính thống để tránh 'ảo giác AI' .",
           },
           {
             emoji: "📖",
-            text: "4. Minh bạch tuyệt đối: Khai báo trung thực công cụ và mức độ sử dụng AI[cite: 6].",
+            text: "4. Minh bạch tuyệt đối: Khai báo trung thực công cụ và mức độ sử dụng AI .",
           },
           {
             emoji: "🎓",
-            text: "5. Học sâu, không học đối phó: Dùng AI để hiểu sâu kiến thức, không dùng để 'đi tắt' chạy deadline[cite: 6].",
+            text: "5. Học sâu, không học đối phó: Dùng AI để hiểu sâu kiến thức, không dùng để 'đi tắt' chạy deadline .",
           },
         ],
       },
